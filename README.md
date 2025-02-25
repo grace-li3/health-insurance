@@ -97,13 +97,13 @@ The best lasso alpha, although not visible from the graph, is 0.000745 and the l
 
 Finally, we must evaluate if the data at hand is suitable for multi-linear regression. The scatter plot to the right demonstrates the distribution of residuals.
 
-<img width="253" alt="Screenshot 2025-02-25 at 12 53 33 PM" src="https://github.com/user-attachments/assets/5d17a5f6-1072-42d9-bf31-b68e526b8e9f" />
+<img width="421" alt="Screenshot 2025-02-25 at 1 21 36 PM" src="https://github.com/user-attachments/assets/f35c7ee0-c166-4191-bd04-0997b76be277" />
 
 *Figure 8: Residuals vs Fitted Values*
 
 It shows that the variability of the residuals around the 0 line is not completely uniform (i.e., not homoskedastic), as the variability of the residuals on the left seems to be greater than that on the right. Then again, the histogram of residuals in the square root model shows that most residuals are concentrated in the -0.5 to 0.5 range, but it also points to the existence of some outliers (i.e., some residuals belong in the bins above 0.5). However, the three scatter plots be- low that plot data points according to each pre- dictor (age, BMI, smoking status) against charge show that they are roughly linear.
 
-<img width="260" alt="Screenshot 2025-02-25 at 12 54 14 PM" src="https://github.com/user-attachments/assets/41bd7d60-65b6-422d-9ff7-119299b4dbdd" />
+<img width="451" alt="Screenshot 2025-02-25 at 1 21 47 PM" src="https://github.com/user-attachments/assets/f8a25a81-9031-48b5-a8db-07d969dd4560" />
 
 *Figure 9: Distribution of Residuals*
 
