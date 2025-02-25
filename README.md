@@ -41,7 +41,7 @@ An exploratory analysis was conducted to determine the most influential predicto
 
 <img width="284" alt="Screenshot 2025-02-25 at 12 47 31 PM" src="https://github.com/user-attachments/assets/73e1a1cb-c3d3-421d-8271-b7def8a07292" />
 
-**Figure 1: Correlation Coefficient Heatmap*
+*Figure 1: Correlation Coefficient Heatmap*
 
 A histogram displaying the age distributions was also used in the explanatory analysis. The data revealed an over-representation of younger in- dividuals in their twenties, while the other age groups appeared to be more evenly distributed.
 
