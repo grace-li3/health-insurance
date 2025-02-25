@@ -110,8 +110,8 @@ It shows that the variability of the residuals around the 0 line is not complete
 The scatter plots below illustrate the relation- ships between square root transformed age, BMI, and smoking status against health in- surance charges. A linear increase occurs in charges as age progresses. Smokers incur signif- icantly higher charges than non-smokers, under- lining the profound impact of smoking on insur- ance costs. The relationship between BMI and charges is less definitive, with a moderate up- ward trend indicating that while BMI influences charges, its effect is overshadowed by other fac- tors like age and smoking status. These visu- alizations clearly underscore the varying degrees of influence that different demographic factors have on health insurance premiums, with smok- ing status being the most decisive predictor.
 
 <img width="529" alt="Screenshot 2025-02-25 at 1 22 28 PM" src="https://github.com/user-attachments/assets/622bdfc0-285b-4bf2-bb52-c4e39f585d1a" /> 
-<img width="523" alt="Screenshot 2025-02-25 at 1 22 40 PM" src="ht![Uploading Screenshot 2025-02-25 at 1.22.49 PM.png…]()
-tps://github.com/user-attachments/assets/e93cb109-f190-4ed4-bc2b-8ff0f464f8ec" /> <img width="532" alt="Screenshot 2025-02-25 at 1 23 01 PM" src="https://github.com/user-attachments/assets/2220225d-f8d6-4aa1-b84e-66f5d25d95e8" />
+<img width="527" alt="Screenshot 2025-02-25 at 1 24 18 PM" src="https://github.com/user-attachments/assets/b92616ee-8510-4ac5-b077-d24e1a23d30c" />
+<img width="532" alt="Screenshot 2025-02-25 at 1 23 01 PM" src="https://github.com/user-attachments/assets/2220225d-f8d6-4aa1-b84e-66f5d25d95e8" />
 
 ## Conclusion
 
