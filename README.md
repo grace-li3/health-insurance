@@ -39,7 +39,7 @@ Region and Insurance Cost: Different regions might have different average health
 ## Exploratory Analysis
 An exploratory analysis was conducted to determine the most influential predictors for health insurance charges. A correlational heat map revealed that age, BMI, and smoking status demonstrated the strongest associations with charges. Age and smoking status show strong associations with charges, with smoking likely having the most significant impact. Interestingly, the number of children an individual has showed a slightly higher correlational value than sex; however, its impact on charges was notably lower than BMI, smoking status, and age.
 
-<img width="284" alt="Screenshot 2025-02-25 at 12 47 31 PM" src="https://github.com/user-attachments/assets/73e1a1cb-c3d3-421d-8271-b7def8a07292" />
+<img width="410" alt="Screenshot 2025-02-25 at 1 14 52 PM" src="https://github.com/user-attachments/assets/218af08b-c6c1-4d36-85b0-aef8bac21d71" />
 
 *Figure 1: Correlation Coefficient Heatmap*
 
