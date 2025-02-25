@@ -45,7 +45,7 @@ An exploratory analysis was conducted to determine the most influential predicto
 
 A histogram displaying the age distributions was also used in the explanatory analysis. The data revealed an over-representation of younger in- dividuals in their twenties, while the other age groups appeared to be more evenly distributed.
 
-<img width="276" alt="Screenshot 2025-02-25 at 12 48 18 PM" src="https://github.com/user-attachments/assets/69069e78-b1c1-445c-b8ab-7cb16e59f687" />
+<img width="536" alt="Screenshot 2025-02-25 at 1 15 20 PM" src="https://github.com/user-attachments/assets/d4ff422c-84de-42b7-8a64-ff32b9b242ab" />
 
 *Figure 2: Age Distribution*
 
